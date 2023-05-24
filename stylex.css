@@ -1,0 +1,47 @@
+*{
+    font-family: 'Comic Neue', cursive;
+}
+article{
+    flex: 1px;
+}
+.banner{
+    height: 40vh;
+    border: 1px solid;
+    background-color: black;
+    color: aliceblue;
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-size: large;
+    text-align: center;
+}
+aside{
+    float: right;
+    height: 1600px;
+    width: 300px;
+    margin-left: 50px;
+}
+aside h4{
+    font-size: 14px;
+    text-align: center;
+}
+aside table{
+    padding: 40px;
+}
+.section{
+    float: left;
+    width: fit-content;
+}
+#Form{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 11px;
+    background-color: aquamarine;
+    height: 30px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
